@@ -11,7 +11,7 @@ const Hero = () => {
 
 			{/* Main content */}
 			<div className="relative z-10 container mx-auto px-4 text-center">
-				<h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">Discover Campus Events</h1>
+				<h1 className="text-5xl md:text-7xl font-bold mb-6 pb-3 bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">Discover Campus Events</h1>
 				<p className="text-gray-300 text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
 					Your one-stop destination for all university events and hackathons. Never miss an opportunity to learn, compete, and grow.
 				</p>

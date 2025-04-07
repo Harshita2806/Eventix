@@ -6,7 +6,7 @@ import Hero from './pages/components/Home/Hero'
 // import Contact from './pages/components/Home/Contact'
 // import Footer from './pages/components/Home/Footer'
 
-function App() {
+function App() {    
     return (
         <BrowserRouter>
             <div id="navbar">
